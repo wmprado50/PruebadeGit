@@ -11,6 +11,7 @@ namespace PruebadeGit
         static void Main(string[] args)
         {
             Console.WriteLine("Esta es una prueba de git");
+            Console.WriteLine("Esta es una nueva linea");
             Console.ReadLine();
         }
     }
